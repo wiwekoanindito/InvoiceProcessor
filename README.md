@@ -19,4 +19,4 @@ where
           the merged file if ran will be saved on the main directory.
 
 ## Usage
-Please run the code starting on *Script* section directly, as the Notebook section is only for trial.
+Please run the code starting on **Script** section directly, as the Notebook section is only for trial.
