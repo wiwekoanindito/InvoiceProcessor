@@ -9,14 +9,16 @@ pip install pandas
 ## Project Structure
 The structure of the working directory should be:
  
+```
 Main.ipynb
-/ CSV
-/ Clean
+/CSV
+/Clean
+```
 
-where 
-/ CSV : contains all raw invoice data from DV360, 
-/ Clean : will be where the processed files will be saved, 
-          the merged file if ran will be saved on the main directory.
+- **/CSV** — contains all raw invoice data from DV360.  
+- **/Clean** — stores all processed invoice files.  
+- The merged output file (if generated) will be saved in the **main directory**.  
 
 ## Usage
-Please run the code starting on **Script** section directly, as the Notebook section is only for trial.
+Run the code starting from the **Script** section in `Main.ipynb`.  
+The **Notebook** section is intended only for experimentation and testing.  
